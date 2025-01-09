@@ -1,5 +1,7 @@
 <p align="center"><img src="dev-tools-used.png"></p>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/AngeliqueRamos18/Dev-Tools-For-Programming) 
+
 # Tools Used For:
 
 ## Creating ReadMe Files
