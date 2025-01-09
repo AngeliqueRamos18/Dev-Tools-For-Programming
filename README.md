@@ -1,6 +1,6 @@
-<img src="dev-tools-used.png" align="center" />
+<p align="center"><img src="dev-tools-used.png"></p>
 
-# Tools Used For
+# Tools Used For:
 
 ## Creating ReadMe Files
 List of used tools for creating read me files
