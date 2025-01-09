@@ -1,4 +1,4 @@
-<img src="dev-tools-used.png" align="center">
+<img src="dev-tools-used.png" align="center" />
 
 # Tools Used For
 
